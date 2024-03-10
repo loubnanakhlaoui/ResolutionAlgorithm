@@ -17,7 +17,7 @@ The program will output whether the formula is valid or not.
 
 ## Example:
 $ java ResolutionAlgorithm
-Entrez la formule sous forme de clauses (utilisez les opérateurs logiques '&' pour ET, '|' pour OU et '~' pour NON, séparées par des virgules) :
+Entrez la formule en FCN sous forme de clauses (utilisez les opérateurs logiques '&' pour ET, '|' pour OU et '~' pour NON, séparées par des virgules) :
 ~P,P,Q
 La formule n'est pas valide.
 
